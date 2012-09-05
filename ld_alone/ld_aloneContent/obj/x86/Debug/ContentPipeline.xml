@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bg_tiles\tree.png</Source>
+      <Name>bg_tiles\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bg_tiles\tree.xnb</Output>
+      <Time>2011-12-18T01:07:48.8338689-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sign.png</Source>
+      <Name>sprites\sign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\sign.xnb</Output>
+      <Time>2011-12-18T01:08:43.4819946-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bgs\sign_dialog.png</Source>
+      <Name>bgs\sign_dialog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bgs\sign_dialog.xnb</Output>
+      <Time>2011-12-17T16:05:57.7357913-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_tiles\sea.png</Source>
+      <Name>bg_tiles\sea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bg_tiles\sea.xnb</Output>
+      <Time>2011-12-17T22:19:09.7445409-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_tiles\stone_block.png</Source>
+      <Name>bg_tiles\stone_block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bg_tiles\stone_block.xnb</Output>
+      <Time>2011-12-17T22:19:09.7505413-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_tiles\sand_tile.png</Source>
+      <Name>bg_tiles\sand_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bg_tiles\sand_tile.xnb</Output>
+      <Time>2011-12-17T22:26:48.1407597-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_tiles\grass_tile.png</Source>
+      <Name>bg_tiles\grass_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bg_tiles\grass_tile.xnb</Output>
+      <Time>2011-12-17T22:39:10.7282333-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\hero.png</Source>
+      <Name>sprites\hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\hero.xnb</Output>
+      <Time>2011-12-18T12:14:33.8610255-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\hero_moving.png</Source>
+      <Name>sprites\hero_moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\hero_moving.xnb</Output>
+      <Time>2011-12-18T12:14:39.5933534-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bgs\abyss.png</Source>
+      <Name>bgs\abyss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bgs\abyss.xnb</Output>
+      <Time>2011-12-17T23:37:50.7825689-06:00</Time>
+    </Item>
+    <Item>
+      <Source>anim_tiles\fireplace.png</Source>
+      <Name>anim_tiles\fireplace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\anim_tiles\fireplace.xnb</Output>
+      <Time>2011-12-18T01:05:38.8304331-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\battery.png</Source>
+      <Name>sprites\battery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\battery.xnb</Output>
+      <Time>2011-12-18T02:03:22.7545582-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\manual.png</Source>
+      <Name>sprites\manual</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\manual.xnb</Output>
+      <Time>2011-12-18T02:03:22.7635587-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wrench.png</Source>
+      <Name>sprites\wrench</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\wrench.xnb</Output>
+      <Time>2011-12-18T02:03:22.8815655-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\spaceship.png</Source>
+      <Name>sprites\spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\spaceship.xnb</Output>
+      <Time>2011-12-18T17:55:50.6622316-06:00</Time>
+    </Item>
+    <Item>
+      <Source>anim_tiles\sea.png</Source>
+      <Name>anim_tiles\sea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\anim_tiles\sea.xnb</Output>
+      <Time>2011-12-18T12:55:50.7576959-06:00</Time>
+    </Item>
+    <Item>
+      <Source>anim_tiles\red_water.png</Source>
+      <Name>anim_tiles\red_water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\anim_tiles\red_water.xnb</Output>
+      <Time>2011-12-18T12:56:06.4035908-06:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_tiles\beartrap.png</Source>
+      <Name>bg_tiles\beartrap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\bg_tiles\beartrap.xnb</Output>
+      <Time>2011-12-18T12:56:29.6099182-06:00</Time>
+    </Item>
+    <Item>
+      <Source>anim_tiles\smog.png</Source>
+      <Name>anim_tiles\smog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\anim_tiles\smog.xnb</Output>
+      <Time>2011-12-18T13:02:21.7350586-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\spaceship_flying.png</Source>
+      <Name>sprites\spaceship_flying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sprites\spaceship_flying.xnb</Output>
+      <Time>2011-12-18T17:56:33.6876925-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2011-12-17T16:11:24.7234939-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\hurt.wav</Source>
+      <Name>sounds\hurt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sounds\hurt.xnb</Output>
+      <Time>2011-12-18T17:05:41.5551205-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\lose_tile.wav</Source>
+      <Name>sounds\lose_tile</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sounds\lose_tile.xnb</Output>
+      <Time>2011-12-18T17:05:41.6291247-06:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\pickup.wav</Source>
+      <Name>sounds\pickup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\sounds\pickup.xnb</Output>
+      <Time>2011-12-18T17:05:41.6301248-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_aloneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_aloneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Opal\documents\visual studio 2010\Projects\ld_alone\ld_alone\ld_alone\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-04T11:03:39.3521895-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

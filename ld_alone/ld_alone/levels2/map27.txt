@@ -1,0 +1,22 @@
+16
+16
+wwww********wwww
+ww***ttttt***www
+w**t0000ttt***ww
+*ttttt000mttt***
+*ttt00000r00ttt*
+l0s00m0000000m0l
+l000r0m00mr0000l
+l000r0r00rm0000l
+***m*00r00000rm*
+*r*m*00r00rmr00*
+*r*m*000mm00000*
+****************
+***000***www****
+***www***ww****w
+**************ww
+*************www
+1
+piece of pie
+1000
+6

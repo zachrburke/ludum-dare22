@@ -1,0 +1,22 @@
+16
+16
+**********LL****
+*TTTT0000ggg000*
+*TTT000ggggggTT*
+*TgS0000grrgTgg*
+*0gm00000*TTggg*
+*0m000000*Tgg00*
+***0000rr0gg000*
+*0000000r00000t*
+l000tm0000000tt*
+l00t*tm00000ttt*
+l0tt*tt0000tttt*
+****************
+www**www**wwwwww
+wwww*wwww*wwwwww
+wwwww*wwwwwwwwww
+wwwwwwwwwwwwwwww
+1
+Watch your step!
+1000
+6
